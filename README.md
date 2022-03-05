@@ -13,4 +13,5 @@
 
 9.<img width="408" alt="Query 9" src="https://user-images.githubusercontent.com/100989741/156876020-f0ecf5f8-ff6c-4e03-8e7a-fc2f9b76942e.png">
 
-10.
+10.<img width="425" alt="Query 10" src="https://user-images.githubusercontent.com/100989741/156876189-5f225f50-f92e-4e10-9c00-8e1ff93d6503.png">
+
