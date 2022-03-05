@@ -11,5 +11,6 @@
 
 8.<img width="440" alt="Query 8" src="https://user-images.githubusercontent.com/100989741/156875847-0c328480-6009-421e-9ecb-18a7a5d6aa1a.png">
 
-9.
+9.<img width="408" alt="Query 9" src="https://user-images.githubusercontent.com/100989741/156876020-f0ecf5f8-ff6c-4e03-8e7a-fc2f9b76942e.png">
+
 10.
