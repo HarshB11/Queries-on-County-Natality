@@ -1,0 +1,10 @@
+--Data on Shelby County or Gwinnett County
+SELECT
+  County_of_Residence,
+  Ave_OE_Gestational_Age_Wks
+FROM
+  `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_abnormal_conditions`
+WHERE
+  County_of_Residence= 'Shelby County, AL'
+  OR County_of_Residence= 'Gwinnett County,GA'
+  AND Ave_OE_Gestational_Age_Wks= 38.75
