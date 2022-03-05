@@ -1,0 +1,3 @@
+--Data on Oswego County
+SELECT County_of_Residence,Ave_Pre_pregnancy_BMI FROM `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_congenital_abnormalities` 
+WHERE County_of_Residence='Oswego County, NY'
