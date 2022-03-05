@@ -6,4 +6,8 @@
 3. <img width="191" alt="Query 2" src="https://user-images.githubusercontent.com/100989741/156873161-1c28fb23-03dd-4370-a6df-3ee923d2a0de.png">
 4. <img width="395" alt="Query 4" src="https://user-images.githubusercontent.com/100989741/156873285-ec88a369-1b16-477c-92d4-cb4603196b80.png">
 5.<img width="293" alt="Query 5" src="https://user-images.githubusercontent.com/100989741/156873506-c4ff52f8-e824-4f47-a8f5-fc89842dc035.png">
-6.
+6. <img width="289" alt="Query 6" src="https://user-images.githubusercontent.com/100989741/156873650-17863383-ad26-4261-b340-976248c0f90f.png">
+7.
+8.
+9.
+10.
