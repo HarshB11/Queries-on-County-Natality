@@ -4,4 +4,5 @@
 
 2. <img width="191" alt="Query 2" src="https://user-images.githubusercontent.com/100989741/156873045-041876eb-87cd-4e02-9b8b-da5318105fdd.png">
 3. <img width="191" alt="Query 2" src="https://user-images.githubusercontent.com/100989741/156873161-1c28fb23-03dd-4370-a6df-3ee923d2a0de.png">
-4. 
+4. <img width="395" alt="Query 4" src="https://user-images.githubusercontent.com/100989741/156873285-ec88a369-1b16-477c-92d4-cb4603196b80.png">
+5.
