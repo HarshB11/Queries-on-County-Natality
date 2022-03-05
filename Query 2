@@ -1,0 +1,3 @@
+--Data on County of Residence which is Orange County
+SELECT County_of_Residence,Births  FROM `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality` 
+WHERE County_of_Residence='Orange County, NY'
