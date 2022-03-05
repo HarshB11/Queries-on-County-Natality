@@ -1,0 +1,6 @@
+--Data on County of Residence which is Yuma
+SELECT x.year, x.County_of_Residence, x.County_of_Residence, x.Ave_Age_of_Mother
+FROM bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_abnormal_conditions x 
+INNER JOIN bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_mother_race y
+ON x.Ave_Age_of_Mother = y.Ave_Age_of_Mother 
+WHERE x.County_of_Residence LIKE "Yuma%"
